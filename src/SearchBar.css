@@ -1,0 +1,16 @@
+.SearchBar {
+    position:'absolute';
+    padding-left: '12px';
+    cursor:'text';
+    flex: 0.5;
+    display: flex;
+    background-color: white;
+    padding: 10px;
+    border-radius: 30px;
+    color: gray;
+    align-items: center;
+  }
+  
+  .SearchBar > input {
+    border: none;
+  }
